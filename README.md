@@ -28,14 +28,6 @@ each worth **4** points.
 
 - [Reading 07](https://www3.nd.edu/~pbui/teaching/cse.30872.su24/reading07.html)
 
-- [Reading 08](https://www3.nd.edu/~pbui/teaching/cse.30872.su24/reading08.html)
-
-- [Reading 09](https://www3.nd.edu/~pbui/teaching/cse.30872.su24/reading09.html)
-
-- [Reading 10](https://www3.nd.edu/~pbui/teaching/cse.30872.su24/reading10.html)
-
-- [Reading 11](https://www3.nd.edu/~pbui/teaching/cse.30872.su24/reading11.html)
-
 ## Challenges
 
 **Challenges** are due at **noon** on the **Saturday** of each week.  Each
