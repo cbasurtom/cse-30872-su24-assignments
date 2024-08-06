@@ -4,8 +4,8 @@
 
 This is the [CSE-30872-SU24] reading and challenge assignments repository for:
 
-- **Name**:     Domer McDomerson
-- **NetID**:    dmcdomer
+- **Name**:     Carlos Basurto
+- **NetID**:    cbasurto
 
 [CSE-30872-su24]:   https://www3.nd.edu/~pbui/teaching/cse.30872.su24/
 
