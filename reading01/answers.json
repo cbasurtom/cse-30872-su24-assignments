@@ -1,0 +1,55 @@
+{
+  "q1": [
+    "c",
+    "cpp",
+    "java",
+    "python"
+  ],
+  "q2": [
+    "1",
+    "logn",
+    "sqrtn",
+    "n",
+    "nlogn",
+    "n2",
+    "nf"
+  ],
+  "q3": "n2",
+  "q4": "nlogn",
+  "q5": [
+    "cache_list",
+    "insert_list",
+    "append_list",
+    "access_array",
+    "remove_array"
+  ],
+  "q6": [
+    "push",
+    "pop",
+    "lifo",
+    "fifo"
+  ],
+  "q7": [
+    "stack",
+    "c.push(e)",
+    "v.clear()",
+    "!c.empty()",
+    "v.push_back(c.top())",
+    "c.pop()"
+  ],
+  "q8": [
+    "[]",
+    "c.append(e)",
+    "[]",
+    "c",
+    "v.append(c.pop())",
+    "v"
+  ],
+  "q9": [
+    "challenges",
+    "external",
+    "participation",
+    "officehours",
+    "consulting"
+  ]
+}
