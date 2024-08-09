@@ -1,0 +1,43 @@
+{
+  "q01": [
+    "bubble_bigo",
+    "quick_bigo",
+    "count_bigo",
+    "insert_bigo"
+  ],
+  "q02": [
+    "sort",
+    "v.begin()",
+    "v.end()",
+    "sort",
+    "v.rbegin()",
+    "v.rend()"
+  ],
+  "q03": [
+    "3",
+    "8"
+  ],
+  "q04": [
+    "start != end",
+    "end - start",
+    "length/2",
+    "middle",
+    "target < midpoint",
+    "middle",
+    "target > midpoint",
+    "middle + 1"
+  ],
+  "q05": "vector",
+  "q06": "set",
+  "q07": "map",
+  "q08": "len(lst) != len(set(lst))",
+  "q09": [
+    "ordered_sets_search",
+    "sets_order",
+    "unordered_maps_hash"
+  ],
+  "q10": [
+    "sets_declaration",
+    "dicts_declaration"
+  ]
+}
