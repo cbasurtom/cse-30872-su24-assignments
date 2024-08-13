@@ -1,0 +1,31 @@
+{
+    "q1": "352",
+    "q2": [
+      "sort",
+      "next_permutation"
+    ],
+    "q3": [
+      "itertools",
+      "itertools.permutations",
+      "join"
+    ],
+    "q4": [
+      "0",
+      "bitset | (1<<i)",
+      "bitset & (1<<i)",
+      "bitset ^ (1<<i)"
+    ],
+    "q5": [
+      "22",
+      "0"
+    ],
+    "q6": [
+      "backtracking",
+      "recursively",
+      "pruning"
+    ],
+    "q7": [
+      "approach",
+      "efficiency"
+    ]
+  }
